@@ -45,15 +45,9 @@ A faithful recreation of the Game Boy Color *Pokémon Trading Card Game* series 
 - **Scroll** — Browse hand / bench
 - **F1** - Music and Audio Controller
 
-## 🃏 Card Sets Included
-
-- Base Set
-- Jungle
-- Fossil
-- Team Rocket
-- GB Promos
-- Vending Machine Cards
 
 ## 📝 License
 
-This is a fan project. Pokémon and the Pokémon Trading Card Game are trademarks of Nintendo, Creatures Inc., and Game Freak.
+This is a fan project. 
+It contains zero monitization.
+Pokémon and the Pokémon Trading Card Game are trademarks of Nintendo, Creatures Inc., and Game Freak.
