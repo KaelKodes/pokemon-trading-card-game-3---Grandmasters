@@ -43,6 +43,7 @@ A faithful recreation of the Game Boy Color *Pokémon Trading Card Game* series 
 - **Left Click** — Select cards, perform actions
 - **Right Click** — Preview card details
 - **Scroll** — Browse hand / bench
+- **F1** - Music and Audio Controller
 
 ## 🃏 Card Sets Included
 
